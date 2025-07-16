@@ -189,7 +189,7 @@ export const projects = [
     image: csprepLogo,
     tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
     github:
-      "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
+      "https://github.com/sonuchaurasiya7633/school",
     webapp: "https://success-point-school-sandy.vercel.app/",
   },
   {
@@ -200,7 +200,7 @@ export const projects = [
 
     image: movierecLogo,
     tags: ["React JS", "HTML", "CSS", "JavaScript"],
-    github: "https://github.com/codingmastr/CSPrep",
+    github: "https://github.com/sonuchaurasiya7633/crud",
     webapp: "https://crud-app-alpha-liard.vercel.app/",
   },
   {
@@ -211,7 +211,7 @@ export const projects = [
 
     image: githubdetLogo,
     tags: ["React JS", "HTML", "CSS", "JavaScript"],
-    github: "https://github.com/codingmastr/Movie-Recommendation-App",
+    github: "https://github.com/sonuchaurasiya7633/deepseek",
     webapp: "https://deepseek-dun.vercel.app/",
   },
   {
@@ -221,7 +221,7 @@ export const projects = [
       "A full-featured React.js and Node.js based e-commerce application that includes product browsing, cart management, and secure payments integration using Razorpay. Designed for a smooth user experience and easy customization.",
     image: cmLogo,
     tags: ["React JS", "Node.js", "NPM", "Validation", "Payment Integration"],
-    github: "https://github.com/codingmastr/cmtk-email-validator",
+    github: "https://github.com/sonuchaurasiya7633/shopcode",
     webapp: "https://shopcode-gamma.vercel.app/",
   },
   {
@@ -231,7 +231,7 @@ export const projects = [
       "A modern and user-friendly web application for browsing restaurants, exploring menus, and placing food orders online. Built with React.js and integrated with essential features like real-time order tracking and secure checkout for a seamless food delivery experience.",
     image: webverLogo,
     tags: ["JavaScript", "Chrome Extension", "HTML", "CSS"],
-    github: "https://github.com/codingmastr/Task-Reminder-Tool",
+    github: "https://github.com/sonuchaurasiya7633/E-Commerce-Web",
     webapp: "https://sonu-food-delevery.netlify.app/",
   },
   {
@@ -241,7 +241,7 @@ export const projects = [
       "A simple and efficient web application that allows users to shorten long URLs into concise, shareable links. Built with HTML, CSS, and JavaScript, it provides an easy-to-use interface to generate, manage, and redirect shortened URLs.",
     image: taskremLogo,
     tags: ["HTML", "CSS", "JavaScript", "Framer Motion"],
-    github: "https://github.com/codingmastr/Webverse-Digital",
+    github: "https://github.com/sonuchaurasiya7633/URL_SHortner",
     webapp: "https://url-shortner-n0b3.onrender.com",
   },
   {
@@ -251,7 +251,7 @@ export const projects = [
       "A full-stack image uploader app where users can upload, store, and manage images securely. Built with React.js, Node.js, and Cloudinary, it offers real-time preview and responsive design.",
     image: npmLogo,
     tags: ["React JS", "Node.js", "MongoDB", "Express"],
-    github: "https://codingmasterweb.in/",
+    github: "https://github.com/sonuchaurasiya7633/Image_Uploader_sonu",
     webapp: "https://image-uploader-sonu.onrender.com",
   },
 ];
